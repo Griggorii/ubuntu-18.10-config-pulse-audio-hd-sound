@@ -33,6 +33,8 @@ sudo su rm -rf /home/    user name   /.cache
 
 Открыть какой нибудь муз канал убедившись что в аудио появились такие устройства три штуки с названием speech-dispatcher или можно полистать сайты и они могут появиться сами я пока это явление не выловил , но факт фактом speech-dispatcher может передавать аудиопоток. Примерно картинка https://github.com/Griggorii/ubuntu-18.10-config-pulse-audio-hd-sound/blob/master/speech-dispatcher.png
 
+Вот ещё пакет из серии http://archive.ubuntu.com/ubuntu/pool/main/s/speech-dispatcher/speech-dispatcher-audio-plugins_0.8.8-6ubuntu1_i386.deb
+
 
 Надо выполнить speech-dispatcher и как то заставить те же приложения браузеры и всё остальное audio output speech-dispatcher за место того же AudioIPC Server допустим в firefox , звук сильно не реальный и изменит мнение что уже нельзя сделать сам звук лучше чем есть на каких либо операционных системах
 
