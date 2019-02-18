@@ -1,7 +1,7 @@
 # ubuntu-18.10-config-pulse-audio-hd-sound
 ubuntu 18.10 config pulse audio bass hd
 
-sudo apt update && apt install speech-dispatcher
+sudo apt update && apt install speech-dispatcher libltdl  python-xdg  dotconf  libpulse  libao
 
 /home/    user name   /.config/pulse
 
