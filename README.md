@@ -11,7 +11,7 @@ sudo apt update && apt install speech-dispatcher
 
 Осторожно звук очень четкий , возможно вам придётся выкинуть другие операционки и ждать OS 8.0
 
-Запуск срабатывает так speech-dispatcher "lyboi_vash_text"
+Запуск срабатывает так speech-dispatcher
 
 Надо выполнить speech-dispatcher и как то заставить те же приложения браузеры и всё остальное audio output speech-dispatcher за место того же AudioIPC Server допустим в firefox , звук сильно не реальный и изменит мнение что уже нельзя сделать сам звук лучше чем есть на каких либо операционных системах
 
