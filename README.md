@@ -25,6 +25,10 @@ sudo su rm -rf /home/    user name   /.cache
 
 && firefox=speech-dispatcher
 
+&& spd-say окно
+
+
+
 Открыть firefox
 
 Открыть какой нибудь муз канал убедившись что в аудио появились такие устройства три штуки с названием speech-dispatcher или можно полистать сайты и они могут появиться сами я пока это явление не выловил , но факт фактом speech-dispatcher может передавать аудиопоток. Примерно картинка https://github.com/Griggorii/ubuntu-18.10-config-pulse-audio-hd-sound/blob/master/speech-dispatcher.png
