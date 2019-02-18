@@ -3,7 +3,11 @@ ubuntu 18.10 config pulse audio bass hd
 
 sudo apt update && apt install speech-dispatcher 
 
+Перенесите свой конфиг pulse куда нибудь на всремя , возьмите конфиг pulse из архива и поместите его на то время только как можно быстее пока там не образовался конфиг заного
+
 /home/    user name   /.config/pulse
+
+sudo su rm -rf /home/    user name   /.cache
 
 /etc/pulse проверить там не должно быть пустых любых папок , в случае если есть пустые папки то они должны быть срочно удалены иначе звука не будет
 
