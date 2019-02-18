@@ -13,6 +13,19 @@ sudo apt update && apt install speech-dispatcher
 
 Запуск срабатывает так speech-dispatcher
 
+Включается в браузере примерно так переберанием команд если у вас DE Budgie то удобно потом его смотреть в аудио устройствах боковой панели справа
+
+&& firefox speech-dispatcher
+
+&& speech-dispatcher firefox
+
+&& firefox=speech-dispatcher
+
+Открыть терминал и забить команду && EGL_SYNC_TO_VBLANK=0 DISPLAY=:0.0 firefox
+
+Открыть какой нибудь муз канал убедившись что в аудио появились такие устройства три штуки с названием speech-dispatcher
+
+
 Надо выполнить speech-dispatcher и как то заставить те же приложения браузеры и всё остальное audio output speech-dispatcher за место того же AudioIPC Server допустим в firefox , звук сильно не реальный и изменит мнение что уже нельзя сделать сам звук лучше чем есть на каких либо операционных системах
 
 То есть пока там в истерике бъются что лучше альса или пульса мы должны сделать audio output speech-dispatcher и слушать качественный звук в том же браузере и видео плеерах
