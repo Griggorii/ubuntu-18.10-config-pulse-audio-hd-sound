@@ -25,7 +25,7 @@ sudo su rm -rf /home/    user name   /.cache
 
 && firefox=speech-dispatcher
 
-Открыть терминал и забить команду && EGL_SYNC_TO_VBLANK=0 DISPLAY=:0.0 firefox
+Открыть firefox
 
 Открыть какой нибудь муз канал убедившись что в аудио появились такие устройства три штуки с названием speech-dispatcher
 
